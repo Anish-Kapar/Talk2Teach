@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+PyMuPDF
+Pillow
+requests
+mutagen
+gTTS
+chromadb
+sentence-transformers
+faiss-cpu
+python-dotenv
